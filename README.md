@@ -1,6 +1,6 @@
-### Hi there, I am Dheeraj Kumar.[website] 👋
+### Hi there, I am Dheeraj Kumar. 👋
 
-[![Website](https://img.shields.io/website?label=dheerajk.in&style=for-the-badge&url=https://www.dheerajk.in)](https://www.dheerajk.in)
+[![Website](https://img.shields.io/website?label=dheerajk.in&style=for-the-badge&url=http://www.dheerajk.in)](https://http://dheerajk.in)
 
 ## I'm a Developer.
 
@@ -23,6 +23,6 @@
 
 <br />
 
-[website]: https://www.anantpatni.com
+[website]: http://dheerajk.in
 [linkedin]: www.linkedin.com/in/dheerajkumar1009
 
