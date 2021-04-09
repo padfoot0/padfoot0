@@ -4,7 +4,7 @@
 
 ## I'm a Developer.
 
-- 🌱 I’m currently learning machine Learning 🤣
+- 🌱 I’m currently learning machine Learning.
 
 
 <br />
