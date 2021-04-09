@@ -1,6 +1,6 @@
 ### Hi there, I am Dheeraj Kumar. 👋
 
-[![Website](https://img.shields.io/website?label=dheerajk.in&style=for-the-badge&url=http://www.dheerajk.in)](https://http://dheerajk.in)
+[![Website](https://img.shields.io/website?label=dheerajk.in&style=for-the-badge&url=http://www.dheerajk.in)](http://dheerajk.in)
 
 ## I'm a Developer.
 
