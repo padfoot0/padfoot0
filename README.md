@@ -4,7 +4,7 @@
 
 ## I'm a Coder, Web and App Developer.
 
-- 🌱 Data structure, C++, web development (HTML, python, PHP, NodeJs) & app development (JAVA); currently learning Machine Learning.
+- 🌱 Data structure, C++, web development (HTML, python, PHP, NodeJs) & app development (JAVA); working on Machine Learning.
 
 
 <br />
