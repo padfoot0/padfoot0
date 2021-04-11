@@ -2,9 +2,9 @@
 
 [![Website](https://img.shields.io/website?label=dheerajk.in&style=for-the-badge&url=http://www.dheerajk.in)](http://dheerajk.in)
 
-## I'm a Developer.
+## I'm a Coder, Web and App Developer.
 
-- 🌱 I’m currently learning machine Learning.
+- 🌱 Data structure, C++, web development (HTML, python, PHP, NodeJs) and app development (JAVA); currently learning machine Learning.
 
 
 <br />
